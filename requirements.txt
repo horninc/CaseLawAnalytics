@@ -8,3 +8,4 @@ pytest
 httplib2
 sqlalchemy
 python-louvain
+requests
